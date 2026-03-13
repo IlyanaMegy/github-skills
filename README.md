@@ -17,3 +17,4 @@ This repository documents the exercises I completed from GitHub Skills.
 - [Introduction to Git](exercises/4.introduction-to-git/)
 - [Review Pull Requests](exercises/5.review-pull-requests)
 - [Resolve Merge Conflicts](exercises/6.resolve-merge-conflicts/)
+- [Code with Codespaces](exercises/7.skills-code-with-codespaces/)
