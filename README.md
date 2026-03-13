@@ -16,3 +16,4 @@ This repository documents the exercises I completed from GitHub Skills.
 - [Github Pages](exercises/3.github-pages)
 - [Introduction to Git](exercises/4.introduction-to-git/)
 - [Review Pull Requests](exercises/5.review-pull-requests)
+- [Resolve Merge Conflicts](exercises/6.resolve-merge-conflicts/)
