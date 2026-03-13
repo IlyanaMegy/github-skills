@@ -1,9 +1,7 @@
 # GitHub Skills
 
-Exercises completed from GitHub Skills learning path.
+This repository documents the exercises I completed from GitHub Skills.
 
-Topics covered:
-- Markdown
-- Pull requests
-- Merge conflicts
-- GitHub workflows
+## Completed
+
+- [Introduction to GitHub](exercises/introduction-to-github)
