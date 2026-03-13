@@ -2,7 +2,14 @@
 
 This repository documents the exercises I completed from GitHub Skills.
 
-## Completed
+## GitHub Skills Progress
+
+| Path | Status |
+|-----|------|
+| First Day on GitHub | ✅ Completed |
+| First Week on GitHub | ⏳ In progress |
+
+## Exercises
 
 - [Introduction to GitHub](exercises/1.introduction-to-github/)
 - [Communicate using Markdown](exercises/2.communicate-using-markdown/)
