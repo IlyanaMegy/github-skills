@@ -7,7 +7,7 @@ This repository documents the exercises I completed from GitHub Skills.
 | Path | Status |
 |-----|------|
 | First Day on GitHub | ✅ Completed |
-| First Week on GitHub | ⏳ In progress |
+| First Week on GitHub | ✅ Completed |
 
 ## Exercises
 
