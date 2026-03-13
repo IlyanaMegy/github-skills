@@ -15,3 +15,4 @@ This repository documents the exercises I completed from GitHub Skills.
 - [Communicate using Markdown](exercises/2.communicate-using-markdown/)
 - [Github Pages](exercises/3.github-pages)
 - [Introduction to Git](exercises/4.introduction-to-git/)
+- [Review Pull Requests](exercises/5.review-pull-requests)
